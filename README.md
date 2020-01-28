@@ -45,7 +45,7 @@ The warning system consists of 3 sub-systems:
 * Location and Vehicle Data Grabbing System (Location using phone's GPS or using GPRS sensor, Vehicle data such as speed, fuel consumption, etc using OBD2 sensors)
 * Data Analysis and Warning System (Analyses the above system's data and decides to give warning to the user if needed).
 
-![Flow Chart](images/traf_flow.png)
+![Flow Chart](images/flow.png)
 
 ### Use Case 
 
