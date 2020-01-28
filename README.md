@@ -10,7 +10,7 @@ Project developed based on a problem statement given by **ARAI (Automotive Resea
 
 We have developed a software as well as hardware component that can be used as a supplement in any existing vehicle, which would detect traffic signs, traffic lights, driver’s drowsiness, sudden lane changes, predict pedestrian movement, zonal analysis (school zones and other emergency zones) of speed data that collectively forms our warning system. 
 
-The product is powered by AI (Deep Learning and Reinforcement Learning) & Computer Vision, uses IoT for hardware and the software can run on smartphones as well as computers of any platform and configuration.
+The product is powered by **AI (Deep Learning and Reinforcement Learning)** & **Computer Vision**, uses **IoT** for hardware and the software can run on smartphones as well as computers of any platform and configuration.
 
 ## Snapshots
 
@@ -21,19 +21,19 @@ We have only included the snapshots from our product in this page. The following
 * Detects and recognizes traffic signs (39 classes of Indian Traffic Signs for now) and traffic signals in real-time.
 * Also detects school zones and emergency zones based on signs as well as GPS location (within 500m radius)  and warns accordingly if not in recommended speed  limit.
 
-[Traffic Sign and Light](images/traffic.png)
+![Traffic Sign and Light](images/traffic.png)
 
 ### Lane Change Detection
 
 * Specifically developed for Indian roads to detect when a vehicle goes out of lane even if lanes are not visible.
 
-[Lane Change](images/lane.png)
+![Lane Change](images/lane.png)
 
 ### Driver Drowsiness Detection
 
 * Continuously monitors the driver’s status and warns when the driver goes into sleep or feels sleepy (based on eye blink rate and eyelid status).  Our model works during night time too.
 
-[Drowsiness](images/drowsy.png)
+![Drowsiness](images/drowsy.png)
 
 ## About
 
