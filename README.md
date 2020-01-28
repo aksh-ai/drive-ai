@@ -19,7 +19,7 @@ We have only included the snapshots from our product in this page. The following
 ### Traffic Sign, Signals Detection & Recognition
 
 * Detects and recognizes traffic signs (39 classes of Indian Traffic Signs for now) and traffic signals in real-time.
-* Displays reminder for traffic signs that have most priority and warns when traffic signs are not followed.
+* Displays reminder for traffic signs that have most priority, also warns when traffic signs and signals are not followed.
 * Also detects school zones and emergency zones based on signs as well as GPS location (within 500m radius)  and warns accordingly if not in recommended speed  limit.
 
 ![Traffic Sign and Light](images/traffic.png)
