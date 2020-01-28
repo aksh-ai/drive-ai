@@ -6,9 +6,9 @@ A complete Warning System for Drivers using Artificial Intelligence and Computer
 
 Project developed based on a problem statement given by **ARAI (Automotive Research Association of India)** for **Smart India Hackathon 2020 - Software Edition.**
 
-**Pyxel-AI** can promote accident prevention and guide the user to stay on safetrack ensuring personal as well as pedestrian safety.
+**Pyxel-AI** can promote accident prevention and guide the user to stay on safetrack **ensuring personal as well as pedestrian safety**.
 
-We have developed a software as well as hardware component that can be used as a supplement in any existing vehicle, which would detect traffic signs, traffic lights, driver’s drowsiness, sudden lane changes, predict pedestrian movement, zonal analysis (school zones and other emergency zones) of speed data that collectively forms our warning system. 
+We have developed a software as well as hardware component that can be used as a supplement in any existing vehicle, which would detect **traffic signs, traffic lights, driver’s drowsiness, sudden lane changes, predict pedestrian movement, zonal analysis (school zones and other emergency zones) of speed data** that collectively forms our **warning system**. 
 
 The product is powered by **AI (Deep Learning and Reinforcement Learning)** & **Computer Vision**, uses **IoT** for hardware and the software can run on smartphones as well as computers of any platform and configuration.
 
