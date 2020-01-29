@@ -28,11 +28,11 @@ We have only included the snapshots from our product in this page. The following
 
 * Specifically developed for Indian roads to detect when a vehicle goes out of lane even if lanes are not visible.
 
-![Lane Change](images/lane.png)
+![Lane Change](images/lane.gif)
 
 ### Driver Drowsiness Detection
 
-* Continuously monitors the driver’s status and warns when the driver goes into sleep or feels sleepy (based on eye blink rate and eyelid status).  Our model works during night time too.
+* Continuously monitors the driver’s status and warns when the driver goes into sleep or feels sleepy (based on eye blink rate and eyelid status). Our model works during night time too.
 
 ![Drowsiness](images/drowsy.png)
 
@@ -57,6 +57,10 @@ The following diagram is the use case diagram of our product:
 ## About
 
 This product was developed by Team Rogue Daemons
+
+### Latest Version
+
+Pyxel-AI v0.1-alpha
 
 ### Team Members
 
