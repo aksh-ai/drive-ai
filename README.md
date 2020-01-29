@@ -26,7 +26,7 @@ We have only included the snapshots from our product in this page. The following
 
 ### Lane Change Detection
 
-* Specifically developed for Indian roads to detect when a vehicle goes out of lane even if lanes are not visible. (Just a test done using simulation with a video taken from Youtube)
+* Specifically developed for Indian roads to detect when a vehicle goes out of lane even if lanes are not visible. (Just a sample gif done using simulation with a video taken from Youtube)
 
 ![Lane Change](images/lane.gif)
 
