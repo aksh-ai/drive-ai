@@ -20,13 +20,13 @@ We have only included the snapshots from our product in this page. The following
 
 * Detects and recognizes traffic signs (39 classes of Indian Traffic Signs for now) and traffic signals in real-time.
 * Displays reminder for traffic signs that have most priority, also warns when traffic signs and signals are not followed.
-* Also detects school zones and emergency zones based on signs as well as GPS location (within 500m radius)  and warns accordingly if not in recommended speed  limit.
+* Also detects school zones and emergency zones based on signs as well as GPS location (within 500m radius)  and warns accordingly if not in recommended speed limit.
 
 ![Traffic Sign and Light](images/traffic.png)
 
 ### Lane Change Detection
 
-* Specifically developed for Indian roads to detect when a vehicle goes out of lane even if lanes are not visible.
+* Specifically developed for Indian roads to detect when a vehicle goes out of lane even if lanes are not visible. (Just a test done using simulation with a video taken from Youtube)
 
 ![Lane Change](images/lane.gif)
 
