@@ -4,11 +4,11 @@ A complete Warning System for Drivers using Artificial Intelligence and Computer
 
 ## Project Description
 
-Project developed based on a problem statement given by **ARAI (Automotive Research Association of India)** for **Smart India Hackathon 2020 - Software Edition.**
+Pyxel AI is a complete Warning System for Drivers that uses Artificial Intelligence and Computer Vision.
 
 **Pyxel-AI** can promote accident prevention and guide the user to stay on safetrack **ensuring personal as well as pedestrian safety**.
 
-We have developed a software as well as hardware component that can be used as a supplement in any existing vehicle, which would detect **traffic signs, traffic lights, driver’s drowsiness, sudden lane changes, predict pedestrian movement, zonal analysis (school zones and other emergency zones) of speed data** that collectively forms our **warning system**. 
+We have developed a software as well as a hardware component that can be used as a supplement in any existing vehicle, which would detect **traffic signs, traffic lights, driver’s drowsiness, sudden lane changes, predict pedestrian movement, zonal analysis (school zones and other emergency zones) of speed data** that collectively forms our **warning system**. 
 
 The product is powered by **AI (Deep Learning and Reinforcement Learning)** & **Computer Vision**, uses **IoT** for hardware and the software can run on smartphones as well as computers of any platform and configuration.
 
@@ -19,7 +19,9 @@ We have only included the snapshots from our product in this page. The following
 ### Traffic Sign, Signals Detection & Recognition
 
 * Detects and recognizes traffic signs (39 classes of Indian Traffic Signs for now) and traffic signals in real-time.
+
 * Displays reminder for traffic signs that have most priority, also warns when traffic signs and signals are not followed.
+
 * Also detects school zones and emergency zones based on signs as well as GPS location (within 500m radius)  and warns accordingly if not in recommended speed limit.
 
 ![Traffic Sign and Light](images/traffic.png)
@@ -43,7 +45,9 @@ We have only included the snapshots from our product in this page. The following
 The warning system consists of 3 sub-systems:
 
 * Computer Vision System (Traffic Sign, Signals Detection & Recognition, Pedestrain Movement Prediction, Driver Drowsiness Detection, & Lane Change Detection and Warning)
+
 * Location and Vehicle Data Grabbing System (Location using phone's GPS or using GPRS sensor, Vehicle data such as speed, fuel consumption, etc using OBD2 sensors)
+
 * Data Analysis and Warning System (Analyses the above system's data and decides to give warning to the user if needed).
 
 ![Flow Chart](images/flow.png)
