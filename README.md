@@ -71,6 +71,3 @@ Pyxel-AI v0.1-alpha
 * Akshay Kumaar M
 * Sanjay Krishnaan H
 * Nikhil Xavier John
-* Maria Vinita C
-* Shree Kriti R
-* Varsha C
