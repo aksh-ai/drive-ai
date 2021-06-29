@@ -1,12 +1,12 @@
-# Pyxel AI
+# Drive AI
 
 A complete Warning System for Drivers using Artificial Intelligence and Computer Vision.
 
 ## Project Description
 
-Pyxel AI is a complete Warning System for Drivers that uses Artificial Intelligence and Computer Vision.
+Drive AI is a complete Warning System for Drivers that uses Artificial Intelligence and Computer Vision.
 
-**Pyxel-AI** can promote accident prevention and guide the user to stay on safetrack **ensuring personal as well as pedestrian safety**.
+**Drive-AI** can promote accident prevention and guide the user to stay on safetrack **ensuring personal as well as pedestrian safety**.
 
 We have developed a software as well as a hardware component that can be used as a supplement in any existing vehicle, which would detect **traffic signs, traffic lights, driver’s drowsiness, sudden lane changes, predict pedestrian movement, zonal analysis (school zones and other emergency zones) of speed data** that collectively forms our **warning system**. 
 
@@ -64,7 +64,7 @@ This product was developed by Team Rogue Daemons
 
 ### Latest Version
 
-Pyxel-AI v0.1-alpha
+Drive-AI v0.1-alpha
 
 ### Team Members
 
