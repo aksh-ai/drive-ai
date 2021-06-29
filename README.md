@@ -60,7 +60,7 @@ The following diagram is the use case diagram of our product:
 
 ## About
 
-This product was developed by Team Rogue Daemons
+This product was developed by Pyxel AI Team
 
 ### Latest Version
 
